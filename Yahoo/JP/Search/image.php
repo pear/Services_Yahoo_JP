@@ -44,7 +44,7 @@ class Services_Yahoo_JP_Search_Image
      * @var    string
      */
     protected $requestURL_JP =
-        'http://api.search.yahoo.co.jp/ImageSearchService/V1/imageSearch';
+        'http://search.yahooapis.jp/ImageSearchService/V1/imageSearch';
 
     /**
      * Constructor to set a api url

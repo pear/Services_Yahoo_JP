@@ -47,7 +47,7 @@ class Services_Yahoo_JP_Auction_Category
      * @var    string
      */
     protected $requestURL =
-        'http://api.auctions.yahoo.co.jp/AuctionWebService/V1/CategoryTree';
+        'http://auctions.yahooapis.jp/AuctionWebService/V1/CategoryTree';
 
     /**
      * submit

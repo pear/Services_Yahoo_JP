@@ -45,7 +45,7 @@ class Services_Yahoo_JP_Search_Web
      * @var    string
      */
     protected $requestURL_JP =
-        'http://api.search.yahoo.co.jp/WebSearchService/V1/webSearch';
+        'http://search.yahooapis.jp/WebSearchService/V1/webSearch';
 
     /**
      * Constructor to set a api url

@@ -45,6 +45,6 @@ class Services_Yahoo_JP_MA_Parse extends Services_Yahoo_JP_MA_AbstractMA
      * @access protected
      * @var    string
      */
-    protected $requestURL = 'http://api.jlp.yahoo.co.jp/MAService/V1/parse';
+    protected $requestURL = 'http://jlp.yahooapis.jp/MAService/V1/parse';
 }
 ?>

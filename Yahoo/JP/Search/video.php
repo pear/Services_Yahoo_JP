@@ -44,7 +44,7 @@ class Services_Yahoo_JP_Search_Video
      * @var    string
      */
     protected $requestURL_JP =
-        'http://api.search.yahoo.co.jp/VideoSearchService/V1/videoSearch';
+        'http://search.yahooapis.jp/VideoSearchService/V1/videoSearch';
 
     /**
      * Constructor to set a api url

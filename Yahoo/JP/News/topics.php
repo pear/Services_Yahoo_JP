@@ -45,6 +45,6 @@ class Services_Yahoo_JP_News_Topics extends Services_Yahoo_JP_News_AbstractNews
      * @access protected
      * @var    string
      */
-    protected $requestURL = 'http://api.news.yahoo.co.jp/NewsWebService/V1/Topics';
+    protected $requestURL = 'http://news.yahooapis.jp/NewsWebService/V1/Topics';
 }
 ?>

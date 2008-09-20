@@ -6,7 +6,7 @@ http://pear.php.net/dtd/package-2.0.xsd">
  <name>Services_Yahoo_JP</name>
  <channel>pear.php.net</channel>
  <summary>WebServices for Yahoo!JAPAN</summary>
- <description>Interface for Yahoo!JAPAN Web Services API.
+ <description>fixed the api url.
  
  </description>
  <lead>
@@ -15,11 +15,11 @@ http://pear.php.net/dtd/package-2.0.xsd">
   <email>phpizer@gmail.com</email>
   <active>yes</active>
  </lead>
- <date>2008-04-28</date>
- <time>11:51:13</time>
+ <date>2008-09-19</date>
+ <time>20:45:04</time>
  <version>
-  <release>0.1.0</release>
-  <api>0.1.0</api>
+  <release>0.1.1</release>
+  <api>0.1.1</api>
  </version>
  <stability>
   <release>alpha</release>
@@ -122,60 +122,20 @@ http://pear.php.net/dtd/package-2.0.xsd">
     <channel>pear.php.net</channel>
     <min>0.0.1</min>
    </package>
-   <package>
-    <name>XML_Parser</name>
-    <channel>pear.php.net</channel>
-    <min>1.2.7</min>
-   </package>
-   <package>
-    <name>XML_Serializer</name>
-    <channel>pear.php.net</channel>
-    <min>0.1.0</min>
-   </package>
   </required>
  </dependencies>
  <phprelease />
  <changelog>
   <release>
    <version>
-    <release>0.1.0</release>
-    <api>0.1.0</api>
+    <release>0.1.1</release>
+    <api>0.1.1</api>
    </version>
    <stability>
     <release>alpha</release>
     <api>alpha</api>
    </stability>
-   <date>2008-04-28</date>
-   <license uri="http://www.php.net/license">php</license>
-   <notes>alpha version.
-    
-   </notes>
-  </release>
-  <release>
-   <version>
-    <release>0.0.1</release>
-    <api>0.0.1</api>
-   </version>
-   <stability>
-    <release>alpha</release>
-    <api>alpha</api>
-   </stability>
-   <date>2008-04-28</date>
-   <license uri="http://www.php.net/license">php</license>
-   <notes>alpha version.
-    
-   </notes>
-  </release>
-  <release>
-   <version>
-    <release>0.0.6</release>
-    <api>0.0.6</api>
-   </version>
-   <stability>
-    <release>alpha</release>
-    <api>alpha</api>
-   </stability>
-   <date>2008-03-23</date>
+   <date>2008-09-19</date>
    <license uri="http://www.php.net/license">php</license>
    <notes>alpha version.
     

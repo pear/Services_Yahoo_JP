@@ -47,7 +47,7 @@ class Services_Yahoo_JP_Auction_Exhibit
      * @var    string
      */
     protected $requestURL =
-        'http://api.auctions.yahoo.co.jp/AuctionWebService/V1/SellingList';
+        'http://auctions.yahooapis.jp/AuctionWebService/V1/SellingList';
 
     /**
      * submit
